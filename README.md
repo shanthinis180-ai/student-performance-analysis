@@ -1,19 +1,24 @@
 # Student Performance Analysis
 
-## Project Overview
-This project analyzes student performance data using Python.
+## Overview
+This project analyzes student performance data using Python and Data Analytics techniques.
 
 ## Tools Used
 - Python
 - Pandas
+- NumPy
 - Matplotlib
-- Excel
+- Seaborn
+- Jupyter Notebook
 
-## Key Insights
-- Analyzed student scores.
-- Compared subject-wise performance.
-- Created visualizations for better understanding.
+## Analysis Performed
+- Data Cleaning
+- Duplicate Value Check
+- Exploratory Data Analysis (EDA)
+- Statistical Summary
+- Data Visualization
 
 ## Author
 Shanthini S
 B.Tech Information Technology
+RVS College of Engineering and Technology
